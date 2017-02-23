@@ -1,2 +1,4 @@
 https://www.linode.com/docs/applications/puppet/install-and-configure-puppet
 telnet: could not resolve puppet.example.com/8140: Name or service not known
+test- CLI RHEL 7 Non production server
+test - CLI RHEL 7 production server
